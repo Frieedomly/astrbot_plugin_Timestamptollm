@@ -1,5 +1,5 @@
 name: Timestamptollm # 这是你的插件的唯一识别名。
-desc: 这是 让获取信息时添加时间戳并一起发送给llm的插件 # 插件简短描述
+desc: 这是一个让信息获取时加入时间戳，让llm更好理解时间变化插件。不会出现昨晚说的话llm还觉得是刚才了！ 其中获取时间戳部分或许也可以用于节日祝福等功能。目前版本涉及到对Astrbot系统文件的修改，请查看Readme文档或github下使用帮助 # 插件简短描述
 version: v0.1 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: Frieedomly # 作者
 repo: https://github.com/Frieedomly/astrbot_plugin_Timestamptollm # 插件的仓库地址
