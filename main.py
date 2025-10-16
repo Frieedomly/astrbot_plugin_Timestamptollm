@@ -3,7 +3,7 @@ from astrbot.api.provider import ProviderRequest
 from astrbot.api.star import Context, Star, register
 from datetime import datetime
 
-@register("timestamptollm", "Frieedomly", "给LLM请求加时间戳", "0.1.0")
+@register("timestamptollm", "Frieedomly", "给LLM请求加时间戳", "1.0.0")
 class TimestampPlugin(Star):
     def __init__(self, context: Context):
         super().__init__(context)
