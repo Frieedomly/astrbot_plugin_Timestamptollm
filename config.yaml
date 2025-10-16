@@ -1,0 +1,5 @@
+timestamp_plugin:
+  enabled: true
+  time_format: "%Y-%m-%d %H:%M:%S"
+  include_weekday: true
+  log_requests: true
